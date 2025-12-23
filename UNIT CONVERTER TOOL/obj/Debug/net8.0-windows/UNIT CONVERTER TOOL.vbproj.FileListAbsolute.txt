@@ -1,0 +1,17 @@
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\obj\Debug\net8.0-windows\UNIT_CONVERTER_TOOL.frmUnitConverter.resources
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\obj\Debug\net8.0-windows\UNIT CONVERTER TOOL.vbproj.GenerateResource.cache
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\obj\Debug\net8.0-windows\UNIT CONVERTER TOOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\obj\Debug\net8.0-windows\UNIT CONVERTER TOOL.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\obj\Debug\net8.0-windows\UNIT CONVERTER TOOL.AssemblyInfo.vb
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\obj\Debug\net8.0-windows\UNIT CONVERTER TOOL.vbproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\bin\Debug\net8.0-windows\UNIT CONVERTER TOOL.exe
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\bin\Debug\net8.0-windows\UNIT CONVERTER TOOL.deps.json
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\bin\Debug\net8.0-windows\UNIT CONVERTER TOOL.runtimeconfig.json
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\bin\Debug\net8.0-windows\UNIT CONVERTER TOOL.dll
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\bin\Debug\net8.0-windows\UNIT CONVERTER TOOL.pdb
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\obj\Debug\net8.0-windows\UNIT CONVERTER TOOL.dll
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\obj\Debug\net8.0-windows\refint\UNIT CONVERTER TOOL.dll
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\obj\Debug\net8.0-windows\UNIT CONVERTER TOOL.pdb
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\obj\Debug\net8.0-windows\UNIT CONVERTER TOOL.genruntimeconfig.cache
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\obj\Debug\net8.0-windows\ref\UNIT CONVERTER TOOL.dll
+C:\Users\acer\OneDrive - kh8CV\Desktop\Documents\BSIT2D\VB.NET\UNIT CONVERTER TOOL\obj\Debug\net8.0-windows\UNIT_CONVERTER_TOOL.Resources.resources
